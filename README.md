@@ -8,4 +8,4 @@ you should press the A button while walking towards to mountain and the tile rep
 
 Also, the ability to change a defferents Tiles is Sirealized in order to allow a designers to change the game the way they see fit.
 
-hope U enjoyed.
+hope U enjoy.
